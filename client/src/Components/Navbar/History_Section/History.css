@@ -1,0 +1,52 @@
+/* History.css */
+.history-container {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.history-container h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.history-list {
+    list-style: none;
+    padding: 0;
+}
+
+.history-list li {
+    background-color: #178066;
+    border-radius: 16px;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 1px 2px rgb(255 255 255 / 8%);
+}
+.history-list li p {
+    margin: 5px 5px;
+    color: #e5e5e5;
+}
+
+.history-list li p span {
+    font-weight: bold;
+    color: #3c3a3a;
+}
+
+.precaution-list {
+    padding-left: 20px;
+}
+
+.precaution-item {
+    color: #efefef;
+}
+
+.no-history {
+    text-align: center;
+    color: #888;
+    font-size: 16px;
+}
+.user-profile1{
+    color: #178066 !important;
+}

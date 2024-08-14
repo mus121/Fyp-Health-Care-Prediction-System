@@ -1,0 +1,45 @@
+.navbar-back {
+    background-color: #178066;
+}
+/* .hero_area {
+    position: relative;
+    min-height: 0 !important;
+    display: flex;
+    flex-direction: column;
+} */
+/* .custom_nav-container {
+    position: absolute;
+    top: 0;
+} */
+.navbar-brand {
+    display: inline-block;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+.navbar-brand span {
+    font-weight: bold;
+    font-size: 24px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+.nav-link {
+    padding: 5px;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+}
+.btn-mustafa{
+    padding: 0px 10px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    top: 1px;
+}
+.welcome{
+    color: #ffffff !important;
+}

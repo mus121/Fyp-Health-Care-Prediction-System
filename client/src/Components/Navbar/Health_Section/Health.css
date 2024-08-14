@@ -1,0 +1,61 @@
+.health-back{
+    background: #1c5c4c !important;
+}
+.form-health{
+    padding: 15px 10px;
+}
+.current{
+    color: #e5e3e3;
+    font-size: 30px;
+}
+.weather-button{
+    margin-top: 5px;
+    background: black;
+    color: whitesmoke;
+    border: none;
+    border-radius: 8px;
+    padding: 6px 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.temperature {
+    color: whitesmoke;
+    font-size: 16px;
+    margin-top: 5px;
+}
+.question{
+    color: whitesmoke;
+    font-size: 16px;
+    font-weight: 500;
+}
+.yes{
+    color: black;
+    font-weight: bold;
+    padding: 0px 5px;
+}
+.no{
+    color: black;
+    font-weight: bold;
+    padding: 4px 6px;
+}
+.btn2{
+    margin-top: 5px;
+    background: black;
+    color: whitesmoke;
+    border: none;
+    border-radius: 8px;
+    padding: 6px 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.disease-predict{
+    color: #1bc79c;
+    font-weight: bold;
+    font-size: 20px;
+}
+.modal-body{
+    background-color: black;
+}
+.precautions{
+    color: #ededed;
+}

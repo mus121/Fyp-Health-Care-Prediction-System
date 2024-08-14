@@ -1,0 +1,59 @@
+.contact-us-page {
+    font-family: 'Arial', sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  body{
+    background-color: #524c4c !important;
+  }
+  .contact-us-content {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .support {
+    color: #333;
+    font-weight: 700;
+  }
+  
+  .contact-info, .contact-form, .support-hours, .address {
+    margin-bottom: 20px;
+  }
+  
+  .name {
+    display: block;
+    margin-bottom: 5px;
+    color: #333 !important;
+    font-weight: bold;
+  }
+  
+  .handle,
+  textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+  .support1{
+    color: #333 !important;
+    font-weight: bold;
+  }
+  .handle{
+    color: #333 !important;
+    border: 1px solid #333;
+    border-radius: 12px;
+  }
+  button {
+    background-color: #6c6c6c;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
